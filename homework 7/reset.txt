@@ -1,0 +1,10 @@
+$ git reset 138d2a3405e03839814cc99659cf0fd6cdf178ef --hard
+HEAD is now at 138d2a3 add 1.txt
+
+USER@DESKTOP-8FEI2I4 MINGW64 ~/homework7 ((138d2a3...))
+$ git log
+commit 138d2a3405e03839814cc99659cf0fd6cdf178ef (HEAD)
+Author: adva12 <85510819+adva12@users.noreply.github.com>
+Date:   Fri Jul 9 11:57:35 2021 +0300
+
+    add 1.txt

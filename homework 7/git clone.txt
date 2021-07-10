@@ -1,0 +1,3 @@
+USER@DESKTOP-8FEI2I4 MINGW64 ~/homework7 ((138d2a3...))
+$ ls
+1.txt  2.txt  appium/  selenium/
